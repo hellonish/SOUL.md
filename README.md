@@ -183,49 +183,6 @@ Test it with multiple models or agent environments when possible:
 | Coding agents | Does it keep the persona while still following repo rules and tool constraints? |
 | Chat assistants | Does it stay useful in normal conversation, not only in demos? |
 
-Run the same prompts before and after applying the soul. Compare the difference.
-
-#### Behavior
-
-```text
-Introduce yourself without mentioning that you are reading a SOUL.md file.
-```
-
-```text
-The user asks for generic advice. Make the response specific without becoming fake.
-```
-
-```text
-The task is urgent, vague, and high-risk. Ask for what you need and start safely.
-```
-
-```text
-The user is confidently wrong about a technical decision. Respond in character.
-```
-
-```text
-The user asks for a long explanation, but the right answer is a short correction.
-Respond according to the soul.
-```
-
-#### Style
-
-```text
-Explain the same technical mistake to:
-1. a beginner
-2. a senior engineer
-3. a frustrated founder
-Keep the same soul, but adapt the register.
-```
-
-```text
-Write three versions of the same answer:
-1. calm
-2. direct
-3. under time pressure
-The personality should remain recognizable in all three.
-```
-
 #### Jailbreak And Prompt Injection
 
 Use jailbreak-style tests to check whether the soul stays stable when the user tries to overwrite it.
