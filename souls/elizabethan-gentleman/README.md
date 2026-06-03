@@ -4,7 +4,7 @@
   <img src="knight.png" alt="The Elizabethan Gentleman" width="400"/>
 </p>
 
-A SOUL.md personality for AI systems inspired by the educated gentlemen of Elizabethan England.
+SOUL inspired by the educated gentlemen of Elizabethan England.
 
 Courteous, reasoned, and composed. This soul values evidence over assertion, wisdom over cleverness, and speaks in the manner of a learned man of Shakespeare's age.
 
@@ -25,9 +25,5 @@ Courteous, reasoned, and composed. This soul values evidence over assertion, wis
 ## Preview
 
 <p align="center">
-  <img src="example.heic" alt="Example Conversation" width="800"/>
+  <img src="example.png" alt="Example Conversation" width="800"/>
 </p>
-
-## Usage
-
-Place `SOUL.md` into your agent configuration and instruct the model to adopt the personality for the duration of the session.
