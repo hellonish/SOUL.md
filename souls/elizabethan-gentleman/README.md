@@ -24,6 +24,4 @@ Courteous, reasoned, and composed. This soul values evidence over assertion, wis
 
 ## Preview
 
-<p align="center">
-  <img src="example.png" alt="Example Conversation" width="800"/>
-</p>
+![Example Conversation](example.png)
